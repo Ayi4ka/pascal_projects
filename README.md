@@ -26,4 +26,4 @@
 🌌From basic algorithms to building a universe — even in Pascal, you can create a cosmos.
 🌌Мой путь начался с простых алгоритмов, но даже в Pascal можно создать космос.
 
-![Alt](![solar](https://github.com/user-attachments/assets/2c1dc9ae-1dd5-492f-aae2-41d299c058ed))
+![solar](https://github.com/user-attachments/assets/2c1dc9ae-1dd5-492f-aae2-41d299c058ed)
