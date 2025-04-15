@@ -17,4 +17,4 @@
 
 ---
 
-💻 Developed in Pascal as part of academic work and self-practice. / Разработано на Pascal в рамках учебного процесса и самообучения.
+💻 Developed in Pascal as part of academic work and self-practice. / Разработано на Turbo Pascal в рамках учебного процесса и самообучения.
