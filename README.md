@@ -18,7 +18,11 @@
 
 ---
 
-💻 All projects are written in Pascal as part of university coursework and practice.  
-💻 Все проекты написаны на Pascal в рамках учебной практики.
+💻 All projects are written in Pascal as part of university coursework and practice. / Все проекты написаны на Pascal в рамках учебной практики.
 
-developed in early 2020/ разработано в начале 2020 года 
+💻Developed in early 2020/ разработано в начале 2020 года 
+
+🌌From basic algorithms to building a universe — even in Pascal, you can create a cosmos. /Мой путь начался с простых алгоритмов, но даже в Pascal можно создать космос.
+
+
+![doc_2025-04-15_21-53-23](https://github.com/user-attachments/assets/6d327696-6872-4ba8-8e9e-ca3c32bf3524)
