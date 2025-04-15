@@ -18,3 +18,4 @@
 ---
 
 💻 Developed in Pascal as part of academic work and self-practice. / Разработано на Turbo Pascal в рамках учебного процесса и самообучения.
+developed in early 2020/ разработано в начале 2020 года 
