@@ -1,21 +1,24 @@
-# pascal_projects
- Pascal educational projects
+# Pascal Projects Portfolio / Портфолио проектов на Pascal
 
-🛠️ A curated collection of Pascal programs developed as part of my learning and coursework. Each project demonstrates unique aspects of algorithmic thinking, data structures, or applied programming (e.g., simulations and tabulations).
+🛠️ A curated collection of Pascal programs developed during my learning and coursework. Each project highlights algorithmic thinking, data structures, or applied programming (e.g., simulations, file handling, system models).
 
-🛠️ Коллекция программ на Pascal, разработанных в рамках учебного процесса и самообучения. Каждый проект демонстрирует уникальные аспекты алгоритмического мышления, структур данных или прикладного программирования (например, симуляции и табуляции).
+🛠️ Коллекция программ на Pascal, созданных в процессе обучения. Каждый проект демонстрирует навыки алгоритмического мышления, работы с данными, моделирования и прикладного программирования.
 
-## Projects / Проекты
+## 📌 Projects / Проекты
 
-| Project / Проект | Description / Описание |
-|------------------|-----------------------|
-| [Formula Calculator](./formula_calc) | Validates and computes expressions under specific conditions. / Проверяет и вычисляет выражения с определенными условиями. |
-| [Function Tabulation](./function_tabulation) | Tabulates a function C(x,p) over a range and analyzes the output. / Табулирует функцию C(x,p) в пределах диапазона и анализирует результаты. |
-| [Store Information Database](./store_database) | Linked list-based store info manager with file I/O and queries. / Менеджер данных магазина на основе связного списка с вводом/выводом в файл и запросами. |
-| [Base Converter](./base_converter) | Converts numbers between numeral systems from base 2 to 16. / Преобразует числа между системами счисления с основанием от 2 до 16. |
-| [Momentum Simulation](./momentum_simulation) | Graphical physics simulation of momentum conservation. / Графическая симуляция сохранения импульса в физике. |
+| Project | Description (EN) | Описание (RU) |
+|--------|------------------|----------------|
+| [Formula Calculator](./formula_calc) | Validates and computes expressions under specific conditions. | Вычисления по формулам с проверкой условий. |
+| [Function Tabulation](./function_tabulation) | Tabulates a function C(x,p) and finds row-wise min values. | Табулирует функцию и анализирует значения. |
+| [Store Information Database](./store_database) | Linked list-based manager for store data with file I/O. | Управление данными магазинов через списки. |
+| [Base Converter](./base_converter) | Converts numbers between numeral systems (base 2–16). | Конвертер между системами счисления (2–16). |
+| [Momentum Simulation](./momentum_simulation) | Physics simulation of momentum conservation. | Иллюстрация закона сохранения импульса. |
+| [File Manager](./file_manager) | Terminal-based file navigator and editor. | Файловый менеджер в консоли. |
+| [Solar System Model](./solar_system_model) | Graphical simulation of the Solar System. | Модель Солнечной системы (графическая). |
 
 ---
 
-💻 Developed in Pascal as part of academic work and self-practice. / Разработано на Turbo Pascal в рамках учебного процесса и самообучения.
+💻 All projects are written in Pascal as part of university coursework and practice.  
+💻 Все проекты написаны на Pascal в рамках учебной практики.
+
 developed in early 2020/ разработано в начале 2020 года 
