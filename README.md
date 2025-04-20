@@ -20,9 +20,8 @@
 
 💻 All projects are written in Pascal as part of university coursework and practice. / Все проекты написаны на Pascal в рамках учебной практики.
 
-💻Developed in early 2020/ разработано в начале 2020 года 
-
-🤝 Author | Автор Made with ❤️ by Ayi4ka Сделано с любовью — Айка
+🤝 Author | Автор Made with ❤️ by Ayi4ka in 2020 
+🤝 Сделано с любовью — Айка в 2020 году
 
 🌌From basic algorithms to building a universe — even in Pascal, you can create a cosmos. /Мой путь начался с простых алгоритмов, но даже в Pascal можно создать космос.
 
